@@ -1,0 +1,1783 @@
+% This file was created with JabRef 2.9b2.
+% Encoding: UTF8
+
+@ARTICLE{Agrawa93,
+  author = {Agrawal, Rakesh and Imieli\'{n}ski, Tomasz and Swami, Arun},
+  title = {Mining association rules between sets of items in large databases},
+  journal = {SIGMOD Rec.},
+  year = {1993},
+  volume = {22},
+  pages = {207--216},
+  number = {2},
+  month = jun,
+  acmid = {170072},
+  address = {New York, NY, USA},
+  doi = {10.1145/170036.170072},
+  issn = {0163-5808},
+  issue_date = {June 1, 1993},
+  numpages = {10},
+  publisher = {ACM},
+  url = {http://doi.acm.org/10.1145/170036.170072}
+}
+
+@ARTICLE{Aguilar-Ruiz2001875,
+  author = {J.S. Aguilar-Ruiz and I. Ramos and J.C. Riquelme and M. Toro},
+  title = {An evolutionary approach to estimating software development projects},
+  journal = {Information and Software Technology},
+  year = {2001},
+  volume = {43},
+  pages = {875-882},
+  number = {14}
+}
+
+@ARTICLE{AKA91,
+  author = {D.W. Aha and D. Kibler and M.K. Albert},
+  title = {Instance-based Learning Algorithms},
+  journal = {Machine Learning},
+  year = {1991},
+  volume = {6},
+  pages = {37--66}
+}
+
+@INPROCEEDINGS{Arisholm2006IESE,
+  author = {Arisholm, Erik and Briand, Lionel C.},
+  title = {Predicting fault-prone components in a {Java} legacy system},
+  booktitle = {Proceedings of the 2006 ACM/IEEE International Symposium on Empirical
+	Software Engineering (IESE'06)},
+  year = {2006},
+  pages = {8--17},
+  address = {New York, NY, USA},
+  publisher = {ACM},
+  acmid = {1159738},
+  doi = {10.1145/1159733.1159738},
+  isbn = {1-59593-218-6},
+  location = {Rio de Janeiro, Brazil},
+  numpages = {10},
+  url = {http://doi.acm.org/10.1145/1159733.1159738}
+}
+
+@INPROCEEDINGS{Arisholm2007ISSRE,
+  author = {Arisholm, Erik and Briand, Lionel C. and Fuglerud, Magnus},
+  title = {Data Mining Techniques for Building Fault-proneness Models in Telecom
+	Java Software},
+  booktitle = {Proceedings of the The 18th IEEE International Symposium on Software
+	Reliability (ISSRE'07)},
+  year = {2007},
+  series = {ISSRE'07},
+  pages = {215--224},
+  address = {Washington, DC, USA},
+  publisher = {IEEE Computer Society},
+  acmid = {1338386},
+  doi = {10.1109/ISSRE.2007.8},
+  isbn = {0-7695-3024-9},
+  numpages = {10},
+  url = {http://dx.doi.org/10.1109/ISSRE.2007.8}
+}
+
+@ARTICLE{Arisholm10,
+  author = {Erik Arisholm and Lionel C. Briand and Eivind B. Johannessen},
+  title = {A systematic and comprehensive investigation of methods to build
+	and evaluate fault prediction models},
+  journal = {Journal of Systems and Software},
+  year = {2010},
+  volume = {83},
+  pages = {2--17},
+  number = {1},
+  address = {New York, NY, USA},
+  doi = {http://dx.doi.org/10.1016/j.jss.2009.06.055},
+  issn = {0164-1212},
+  publisher = {Elsevier Science Inc.}
+}
+
+@MISC{Asuncion2007,
+  author = {A. Asuncion and D.J. Newman},
+  title = {{UCI} Machine Learning Repository},
+  year = {2007},
+  institution = {University of California, Irvine, School of Information and Computer
+	Sciences},
+  url = {http://www.ics.uci.edu/$\sim$mlearn/{MLR}epository.html}
+}
+
+@ARTICLE{Azar20091365,
+  author = {D. Azar and H. Harmanani and R. Korkmaz},
+  title = {A hybrid heuristic approach to optimize rule-based software quality
+	estimation models},
+  journal = {Information and Software Technology},
+  year = {2009},
+  volume = {51},
+  pages = {1365 - 1376},
+  number = {9},
+  doi = {10.1016/j.infsof.2009.05.003},
+  issn = {0950-5849},
+  keywords = {Software quality},
+  url = {http://www.sciencedirect.com/science/article/pii/S0950584909000809}
+}
+
+@ARTICLE{Azar2011AntColony,
+  author = {D. Azar and J. Vybihal},
+  title = {An ant colony optimization algorithm to improve software quality
+	prediction models: Case of class stability},
+  journal = {Information and Software Technology},
+  year = {2011},
+  volume = {53},
+  pages = {388 - 393},
+  number = {4},
+  doi = {10.1016/j.infsof.2010.11.013},
+  issn = {0950-5849},
+  keywords = {Software quality},
+  url = {http://www.sciencedirect.com/science/article/pii/S0950584910002144}
+}
+
+@ARTICLE{96Basili,
+  author = {V. Basili and L. Briand and W. Melo},
+  title = {A validation of object-oriented design metrics as quality indicators},
+  journal = {IEEE Transactions on Software Engineering},
+  year = {1996},
+  optnumber = {10},
+  optpages = {751--761},
+  optvolume = {22}
+}
+
+@ARTICLE{BP01,
+  author = {Stephen D. Bay and Michael J. Pazzani},
+  title = {Detecting Group Differences: Mining Contrast Sets},
+  journal = {Data Mining and Knowledge Discovery},
+  year = {2001},
+  volume = {5},
+  pages = {213--246},
+  owner = {drg},
+  timestamp = {2012.06.26}
+}
+
+@INPROCEEDINGS{Benlarbi00,
+  author = {S. Benlarbi and Khaled El Emam and Nishith Goel and Shesh N. Rai},
+  title = {Thresholds for Object-Oriented Measures},
+  booktitle = {11th International Symposium on Software Reliability Engineering
+	(ISSRE 2000)},
+  year = {2000},
+  pages = {24--39},
+  doi = {http://doi.ieeecomputersociety.org/10.1109/ISSRE.2000.885858}
+}
+
+@INPROCEEDINGS{Bibi06,
+  author = {Bibi, S. and Tsoumakas, G. and Stamelos, I. and Vlahvas, I.},
+  title = {Software Defect Prediction Using Regression via Classification},
+  booktitle = {IEEE International Conference on Computer Systems and Applications
+	({AICCSA} 2006)},
+  year = {2006},
+  pages = {330--336},
+  month = {8},
+  abstract = {Not available},
+  doi = {10.1109/AICCSA.2006.205110},
+  issn = { }
+}
+
+@ARTICLE{BL97,
+  author = {A.L. Blum and P. Langley},
+  title = {Selection of Relevant Features and Examples in Machine Learning},
+  journal = {Artificial Intelligence},
+  year = {1997},
+  volume = {97},
+  pages = {245-271},
+  number = {1--2},
+  editor = {R. Greiner and D. Subramanian}
+}
+
+@MISC{07PROMISE,
+  author = {G. Boetticher and T. Menzies and T. Ostrand},
+  title = {PROMISE Repository of Empirical Software Engineering Data \emph{West
+	Virginia University, Department of Computer Science}},
+  year = {2007},
+  institution = {West Virginia University, Department of Computer Science},
+  url = {http://promisedata.org/}
+}
+
+@INPROCEEDINGS{Bowes12Promise,
+  author = {Bowes, David and Hall, Tracy and Gray, David},
+  title = {Comparing the performance of fault prediction models which report
+	multiple performance measures: recomputing the confusion matrix},
+  booktitle = {Proceedings of the 8th International Conference on Predictive Models
+	in Software Engineering},
+  year = {2012},
+  series = {PROMISE '12},
+  pages = {109--118},
+  address = {New York, NY, USA},
+  publisher = {ACM},
+  acmid = {2365338},
+  doi = {10.1145/2365324.2365338},
+  isbn = {978-1-4503-1241-7},
+  keywords = {confusion matrix, fault, machine learning},
+  location = {Lund, Sweden},
+  numpages = {10},
+  url = {http://doi.acm.org/10.1145/2365324.2365338}
+}
+
+@ARTICLE{Breiman01,
+  author = {Leo Breiman},
+  title = {Random Forests},
+  journal = {Machine Learning},
+  year = {2001},
+  volume = {45},
+  pages = {5--32},
+  number = {1},
+  address = {Hingham, MA, USA},
+  doi = {http://dx.doi.org/10.1023/A:1010933404324},
+  issn = {0885-6125},
+  publisher = {Kluwer Academic Publishers}
+}
+
+@INPROCEEDINGS{Briand1997C++,
+  author = {Briand, Lionel and Devanbu, Prem and Melo, Walcelio},
+  title = {An investigation into coupling measures for {C++}},
+  booktitle = {Proceedings of the 19th International conference on Software Engineering
+	(ICSE'97)},
+  year = {1997},
+  series = {ICSE'97},
+  pages = {412--421},
+  address = {New York, NY, USA},
+  publisher = {ACM},
+  acmid = {253367},
+  doi = {10.1145/253228.253367},
+  isbn = {0-89791-914-9},
+  keywords = {C++ programming language, coupling on object-oriented design, prediction
+	model of fault-prone components},
+  location = {Boston, Massachusetts, USA},
+  numpages = {10},
+  url = {http://doi.acm.org/10.1145/253228.253367}
+}
+
+@TECHREPORT{SEI97,
+  author = {Kimberly Brune and David Fisher and John Foreman and Jon Gross and
+	Robert Rosenstein and Michael Bray and William Mills and Darleen
+	Sadoski and James Shimp and Edmond {van Doren} and Cory Vondrak and
+	Mark Gerken and Gary Haines and Elizabeth Kean and Maj David Luginbuhl},
+  title = {C4 Software Technology Reference Guide: A Prototype},
+  institution = {Software Engineering Institute (SEI), Carnegie Mellon University},
+  year = {1997},
+  number = {CMU/SEI-97-HB-001},
+  url = {http://www.sei.cmu.edu/library/abstracts/reports/97hb001.cfm}
+}
+
+@ARTICLE{paco08,
+  author = {J.R. Cano and F. Herrera and M. Lozano and S. Garc\'ia},
+  title = {Making CN2-SD subgroup discovery algorithm scalable to large size
+	data sets using instance selection},
+  journal = {Expert Systems with Applications},
+  year = {2008},
+  optpages = {1949--1965},
+  optvolume = {35}
+}
+
+@ARTICLE{CC2009,
+  author = {Cagatay Catal and Banu Diri},
+  title = {A systematic review of software fault prediction studies},
+  journal = {Expert Systems with Applications},
+  year = {2009},
+  volume = {36},
+  pages = {7346 - 7354},
+  number = {4},
+  abstract = {This paper provides a systematic review of previous software fault
+	prediction studies with a specific focus on metrics, methods, and
+	datasets. The review uses 74 software fault prediction papers in
+	11 journals and several conference proceedings. According to the
+	review results, the usage percentage of public datasets increased
+	significantly and the usage percentage of machine learning algorithms
+	increased slightly since 2005. In addition, method-level metrics
+	are still the most dominant metrics in fault prediction research
+	area and machine learning algorithms are still the most popular methods
+	for fault prediction. Researchers working on software fault prediction
+	area should continue to use public datasets and machine learning
+	algorithms to build better fault predictors. The usage percentage
+	of class-level is beyond acceptable levels and they should be used
+	much more than they are now in order to predict the faults earlier
+	in design phase of software life cycle.},
+  doi = {10.1016/j.eswa.2008.10.027},
+  issn = {0957-4174},
+  keywords = {Machine learning},
+  url = {http://www.sciencedirect.com/science/article/pii/S0957417408007215}
+}
+
+@ARTICLE{ChenEtAl:05,
+  author = {Z. Chen and T. Menzies and D. Port and B. Boehm},
+  title = {Finding the Right Data for Software Cost Modeling},
+  journal = {IEEE Software},
+  year = {2005},
+  volume = {22},
+  pages = {38--46}
+}
+
+@ARTICLE{Chidamber1994,
+  author = {S.R. Chidamber and C.F. Kemerer},
+  title = {A metrics suite for object oriented design},
+  journal = {IEEE Transactions on Software Engineering},
+  year = {1994},
+  volume = {20},
+  pages = {476--493},
+  number = {6},
+  month = jun,
+  doi = {10.1109/32.295895},
+  issn = {0098-5589},
+  keywords = {automated data collection tool;measurement principles;metrics suite;object
+	oriented design;object oriented programming;organization;process
+	improvement;software development;software measures;object-oriented
+	methods;object-oriented programming;software metrics;}
+}
+
+@ARTICLE{Clark89,
+  author = {Peter Clark and Tim Niblett},
+  title = {The {CN2} Induction Algorithm},
+  journal = {Machine Learning},
+  year = {1989},
+  volume = {3},
+  pages = {261--283},
+  number = {4},
+  address = {Hingham, MA, USA},
+  doi = {http://dx.doi.org/10.1023/A:1022641700528},
+  issn = {0885-6125},
+  publisher = {Kluwer Academic Publishers}
+}
+
+@ARTICLE{1214740,
+  author = {Clarke, J. and Dolado, J.J. and Harman, M. and Hierons, R. and Jones,
+	B. and Lumkin, M. and Mitchell, B. and Mancoridis, S. and Rees, K.
+	and Roper, M. and Shepperd, M.},
+  title = {Reformulating software engineering as a search problem},
+  journal = {IEE Software},
+  year = {2003},
+  volume = {150},
+  pages = {161--175},
+  number = {3},
+  month = {june},
+  doi = {10.1049/ip-sen:20030559},
+  issn = {1462-5970}
+}
+
+@ARTICLE{DAmbros2012,
+  author = {D'Ambros, Marco and Lanza, Michele and Robbes, Romain},
+  title = {Evaluating defect prediction approaches: a benchmark and an extensive
+	comparison},
+  journal = {Empirical Software Engineering},
+  year = {2012},
+  volume = {17},
+  pages = {531--577},
+  doi = {10.1007/s10664-011-9173-9},
+  issn = {1382-3256},
+  issue = {4-5},
+  keywords = {Defect prediction; Source code metrics; Change metrics},
+  publisher = {Springer US},
+  url = {http://dx.doi.org/10.1007/s10664-011-9173-9}
+}
+
+@INPROCEEDINGS{DAmbros2010,
+  author = {M. D'Ambros and M. Lanza and R. Robbes},
+  title = {An extensive comparison of bug prediction approaches},
+  booktitle = {7th IEEE Working Conference on Mining Software Repositories (MSR
+	2010)},
+  year = {2010},
+  pages = {31--41},
+  month = May,
+  doi = {10.1109/MSR.2010.5463279}
+}
+
+@ARTICLE{DL97,
+  author = {M. Dash and H. Liu},
+  title = {Feature Selection for Classification},
+  journal = {Intelligent Data Analisys},
+  year = {1997},
+  volume = {1},
+  pages = {131--56},
+  number = {3}
+}
+
+@INPROCEEDINGS{DLM00,
+  author = {M. Dash and H. Liu and H. Motoda},
+  title = {Consistency Based Feature Selection},
+  booktitle = {Pacific-Asia Conf. on Knowledge Discovery and Data Mining},
+  year = {2000},
+  pages = {98--109}
+}
+
+@INPROCEEDINGS{Denaro02LogReg,
+  author = {Denaro, G. and Pezze, M.},
+  title = {An empirical evaluation of fault-proneness models},
+  booktitle = {Software Engineering, 2002. ICSE 2002. Proceedings of the 24rd International
+	Conference on},
+  year = {2002},
+  pages = {241 -251},
+  month = {may},
+  abstract = {Planning and allocating resources for testing is difficult and it
+	is usually done on an empirical basis, often leading to unsatisfactory
+	results. The possibility of early estimation of the potential faultiness
+	of software could be of great help for planning and executing testing
+	activities. Most research concentrates on the study of different
+	techniques for computing multivariate models and evaluating their
+	statistical validity, but we still lack experimental data about the
+	validity of such models across different software applications. The
+	paper reports on an empirical study of the validity of multivariate
+	models for predicting software fault-proneness across different applications.
+	It shows that suitably selected multivariate models can predict fault-proneness
+	of modules of different software packages.},
+  keywords = {empirical evaluation;experimental data;fault-proneness models;logistic
+	regression;multivariate models;potential software faultiness;principal
+	component analysis;resource allocation;software applications;software
+	fault-proneness;software metrics;software packages;statistical validity;testing
+	activities;principal component analysis;resource allocation;software
+	management;software metrics;software performance evaluation;}
+}
+
+@TECHREPORT{Doa92,
+  author = {J. Doak},
+  title = {An Evaluation of Feature Selection Methods and their Application
+	to Computer Security},
+  institution = {University of California, Department of Computer Science},
+  year = {1992},
+  number = {CSE-92-18},
+  address = {Davis, CA}
+}
+
+@INPROCEEDINGS{DL99,
+  author = {Dong, Guozhu and Li, Jinyan},
+  title = {Efficient mining of emerging patterns: discovering trends and differences},
+  booktitle = {Proceedings of the fifth ACM SIGKDD international conference on Knowledge
+	discovery and data mining},
+  year = {1999},
+  series = {KDD '99},
+  pages = {43--52},
+  address = {New York, NY, {USA}},
+  publisher = {{ACM}},
+  acmid = {312191},
+  doi = {10.1145/312129.312191},
+  isbn = {1-58113-143-7},
+  location = {San Diego, California, United States},
+  numpages = {10},
+  url = {http://doi.acm.org/10.1145/312129.312191}
+}
+
+@ARTICLE{Elish:08,
+  author = {Karim O. Elish and Mahmoud O. Elish},
+  title = {Predicting defect-prone software modules using support vector machines},
+  journal = {Journal of Systems and Software},
+  year = {2008},
+  volume = {81},
+  pages = {649--660},
+  number = {5},
+  abstract = {Effective prediction of defect-prone software modules can enable software
+	developers to focus quality assurance activities and allocate effort
+	and resources more efficiently. Support vector machines (SVM) have
+	been successfully applied for solving both classification and regression
+	problems in many applications. This paper evaluates the capability
+	of SVM in predicting defect-prone software modules and compares its
+	prediction performance against eight statistical and machine learning
+	models in the context of four NASA datasets. The results indicate
+	that the prediction performance of SVM is generally better than,
+	or at least, is competitive against the compared models.},
+  doi = {10.1016/j.jss.2007.07.040},
+  issn = {0164-1212},
+  keywords = {Software metrics},
+  url = {http://www.sciencedirect.com/science/article/pii/S016412120700235X}
+}
+
+@ARTICLE{Fawcett2006ROC,
+  author = {Fawcett, Tom},
+  title = {An introduction to ROC analysis},
+  journal = {Pattern Recogn. Lett.},
+  year = {2006},
+  volume = {27},
+  pages = {861--874},
+  number = {8},
+  month = jun,
+  acmid = {1159475},
+  address = {New York, NY, USA},
+  doi = {10.1016/j.patrec.2005.10.010},
+  issn = {0167-8655},
+  issue_date = {June 2006},
+  keywords = {Classifier evaluation, Evaluation metrics, ROC analysis},
+  numpages = {14},
+  publisher = {Elsevier Science Inc.},
+  url = {http://dx.doi.org/10.1016/j.patrec.2005.10.010}
+}
+
+@ARTICLE{FayyadIrani1992,
+  author = {Fayyad, Usama M. and Irani, Keki B.},
+  title = {On the Handling of Continuous-Valued Attributes in Decision Tree
+	Generation},
+  journal = {Machine Learning},
+  year = {1992},
+  volume = {8},
+  pages = {87--102},
+  number = {1},
+  month = jan,
+  acmid = {145251},
+  address = {Hingham, MA, USA},
+  doi = {10.1023/A:1022638503176},
+  issn = {0885-6125},
+  issue_date = {Jan. 1992},
+  keywords = {Induction, classification, decision trees, discretization, empirical
+	concept learning, information entropy minimization},
+  numpages = {16},
+  publisher = {Kluwer Academic Publishers},
+  url = {http://dx.doi.org/10.1023/A:1022638503176}
+}
+
+@ARTICLE{Fayyad96,
+  author = {Fayyad, Usama M. and Piatetsky-Shapiro, Gregory and Smyth, Padhraic},
+  title = {From Data Mining to Knowledge Discovery in Databases.},
+  journal = {AI Magazine},
+  year = {1996},
+  volume = {17},
+  pages = {37--54},
+  number = {3}
+}
+
+@ARTICLE{Fenton99,
+  author = {Fenton, N.E. and Neil, M.},
+  title = {A critique of software defect prediction models},
+  journal = {IEEE Transactions on Software Engineering},
+  year = {1999},
+  volume = {25},
+  pages = {675--689},
+  number = {5},
+  month = {sep/oct},
+  abstract = {Many organizations want to predict the number of defects (faults)
+	in software systems, before they are deployed, to gauge the likely
+	delivered quality and maintenance effort. To help in this numerous
+	software metrics and statistical models have been developed, with
+	a correspondingly large literature. We provide a critical review
+	of this literature and the state-of-the-art. Most of the wide range
+	of prediction models use size and complexity metrics to predict defects.
+	Others are based on testing data, the ldquo;quality rdquo; of the
+	development process, or take a multivariate approach. The authors
+	of the models have often made heroic contributions to a subject otherwise
+	bereft of empirical studies. However, there are a number of serious
+	theoretical and practical problems in many studies. The models are
+	weak because of their inability to cope with the, as yet, unknown
+	relationship between defects and failures. There are fundamental
+	statistical and data quality problems that undermine model validity.
+	More significantly many prediction models tend to model only part
+	of the underlying problem and seriously misspecify it. To illustrate
+	these points the Goldilock's Conjecture, that there is an optimum
+	module size, is used to show the considerable problems inherent in
+	current defect prediction approaches. Careful and considered analysis
+	of past and new results shows that the conjecture lacks support and
+	that some models are misleading. We recommend holistic models for
+	software defect prediction, using Bayesian belief networks, as alternative
+	approaches to the single-issue models used at present. We also argue
+	for research into a theory of ldquo;software decomposition rdquo;
+	in order to test hypotheses about defect introduction and help construct
+	a better science of software engineering},
+  doi = {10.1109/32.815326},
+  issn = {0098-5589},
+  keywords = {Bayesian belief networks;holistic models;literature review;multivariate
+	approach;software decomposition;software defect prediction models;software
+	engineering;software maintenance;software metrics;software quality;statistical
+	models;belief networks;program testing;software maintenance;software
+	metrics;software quality;software reliability;}
+}
+
+@ARTICLE{02Fen,
+  author = {N. Fenton and M. Neil and P. Krause},
+  title = {Software measurement: uncertainty and causal modeling},
+  journal = {IEEE Software},
+  year = {2002},
+  optpages = {116--122},
+  optvolume = {19}
+}
+
+@BOOK{fenton97,
+  title = {Software metrics: a Rigorous \& Practical Approach},
+  publisher = {International Thompson Press},
+  year = {1997},
+  author = {N.E. Fenton and S L. Pfleeger}
+}
+
+@ARTICLE{Gamberger02,
+  author = {Dragan Gamberger and Nada Lavrac},
+  title = {Expert-guided subgroup discovery: methodology and application},
+  journal = {Journal of Artificial Intelligence Research},
+  year = {2002},
+  volume = {17},
+  pages = {501--527},
+  number = {1},
+  address = {USA},
+  issn = {1076-9757},
+  publisher = {AI Access Foundation}
+}
+
+@INPROCEEDINGS{GBDSC11,
+  author = {David Gray and David Bowes and Neil Davey and Yi Sun and Bruce Christianson},
+  title = {The misuse of the NASA Metrics Data Program data sets for automated
+	software defect prediction Durham, UK, 11-12 April 2011, ISBN: 978-1-84919-509-6},
+  booktitle = {15th Annual Conference on Evaluation \& Assessment in Software Engineering
+	(EASE 2011)},
+  year = {2011},
+  pages = {96--103},
+  url = {http://dx.doi.org/10.1049/ic.2011.0012}
+}
+
+@ARTICLE{GE03,
+  author = {I. Guyon and A. Elisseeff},
+  title = {An Introduction to Variable and Feature Selection},
+  journal = {Journal of Machine Learning Research},
+  year = {2003},
+  volume = {3},
+  pages = {1157--1182}
+}
+
+@ARTICLE{Gyimothy05,
+  author = {Gyimothy, T. and Ferenc, R. and Siket, I.},
+  title = {Empirical validation of object-oriented metrics on open source software
+	for fault prediction},
+  journal = {IEEE Transactions on Software Engineering},
+  year = {2005},
+  volume = {31},
+  pages = {897--910},
+  number = {10},
+  month = {oct.},
+  abstract = { Open source software systems are becoming increasingly important
+	these days. Many companies are investing in open source projects
+	and lots of them are also using such software in their own work.
+	But, because open source software is often developed with a different
+	management style than the industrial ones, the quality and reliability
+	of the code needs to be studied. Hence, the characteristics of the
+	source code of these projects need to be measured to obtain more
+	information about it. This paper describes how we calculated the
+	object-oriented metrics given by Chidamber and Kemerer to illustrate
+	how fault-proneness detection of the source code of the open source
+	Web and e-mail suite called Mozilla can be carried out. We checked
+	the values obtained against the number of bugs found in its bug database
+	- called Bugzilla - using regression and machine learning methods
+	to validate the usefulness of these metrics for fault-proneness prediction.
+	We also compared the metrics of several versions of Mozilla to see
+	how the predicted fault-proneness of the software system changed
+	during its development cycle.},
+  doi = {10.1109/TSE.2005.112},
+  issn = {0098-5589},
+  keywords = { Bugzilla bug database; Mozilla; fault prediction; fault-proneness
+	detection; object-oriented metrics; open source Web; open source
+	software; software quality; software reliability; database management
+	systems; fault diagnosis; formal verification; object-oriented methods;
+	object-oriented programming; public domain software; software fault
+	tolerance; software metrics; software quality;}
+}
+
+@ARTICLE{HalkidiSTV11,
+  author = {Maria Halkidi and Diomidis Spinellis and George Tsatsaronis and Michalis
+	Vazirgiannis},
+  title = {Data mining in software engineering},
+  journal = {Intell. Data Anal.},
+  year = {2011},
+  volume = {15},
+  pages = {413-441},
+  number = {3},
+  bibsource = {DBLP, http://dblp.uni-trier.de},
+  ee = {http://dx.doi.org/10.3233/IDA-2010-0475}
+}
+
+@PHDTHESIS{Hal99,
+  author = {M.A. Hall},
+  title = {Correlation-based Feature Selection for Machine Learning},
+  school = {University of Waikato, Department of Computer Science},
+  year = {1999},
+  address = {Hamilton, New Zealand}
+}
+
+@ARTICLE{Hall_TKDE03_FS,
+  author = {Hall, M.A. and Holmes, G.},
+  title = {Benchmarking attribute selection techniques for discrete class data
+	mining},
+  journal = {Knowledge and Data Engineering, IEEE Transactions on},
+  year = {2003},
+  volume = {15},
+  pages = { 1437 - 1447},
+  number = {6},
+  month = {nov.-dec.},
+  abstract = { Data engineering is generally considered to be a central issue in
+	the development of data mining applications. The success of many
+	learning schemes, in their attempts to construct models of data,
+	hinges on the reliable identification of a small set of highly predictive
+	attributes. The inclusion of irrelevant, redundant, and noisy attributes
+	in the model building process phase can result in poor predictive
+	performance and increased computation. Attribute selection generally
+	involves a combination of search and attribute utility estimation
+	plus evaluation with respect to specific learning schemes. This leads
+	to a large number of possible permutations and has led to a situation
+	where very few benchmark studies have been conducted. This paper
+	presents a benchmark comparison of several attribute selection methods
+	for supervised classification. All the methods produce an attribute
+	ranking, a useful devise for isolating the individual merit of an
+	attribute. Attribute selection is achieved by cross-validating the
+	attribute rankings with respect to a classification learner to find
+	the best attributes. Results are reported for a selection of standard
+	data sets and two diverse learning schemes C4.5 and naive Bayes.},
+  doi = {10.1109/TKDE.2003.1245283},
+  issn = {1041-4347},
+  keywords = { C4.5 learning scheme; attribute ranking; attribute selection technique
+	benchmarking; attribute utility estimation; classification learner;
+	data engineering; discrete class data mining; naive Bayes learning
+	scheme; predictive attribute identification; search; supervised classification;
+	Bayes methods; data mining; feature extraction; learning (artificial
+	intelligence); pattern classification;}
+}
+
+@ARTICLE{HBBGC11,
+  author = {Tracy Hall and Sarah Beecham and David Bowes and David Gray and Steve
+	Counsell},
+  title = {A Systematic Literature Review on Fault Prediction Performance in
+	Software Engineering},
+  journal = {Transactions on Software Engineering},
+  year = {In Press -- 2011},
+  abstract = {Background: The accurate prediction of where faults are likely to
+	occur in code can help direct test effort, reduce costs and improve
+	the quality of software. Objective: We investigate how the context
+	of models, the independent variables used and the modelling techniques
+	applied, influence the performance of fault prediction models. Method:We
+	used a systematic literature review to identify 208 fault prediction
+	studies published from January 2000 to December 2010. We synthesise
+	the quantitative and qualitative results of 36 studies which report
+	sufficient contextual and methodological information according to
+	the criteria we develop and apply. Results: The models that perform
+	well tend to be based on simple modelling techniques such as NaÃ¯ve
+	Bayes or Logistic Regression. Combinations of independent variables
+	have been used by models that perform well. Feature selection has
+	been applied to these combinations when models are performing particularly
+	well. Conclusion: The methodology used to build models seems to be
+	influential to predictive performance. Although there are a set of
+	fault prediction studies in which confidence is possible, more studies
+	are needed that use a reliable methodology and which report their
+	context, methodology and performance comprehensively.}
+}
+
+@BOOK{Halstead:77,
+  title = {Elements of software science},
+  publisher = {Elsevier},
+  year = {1977},
+  author = {M.H. Halstead},
+  series = {Elsevier Computer Science Library. Operating And Programming Systems
+	Series; 2},
+  address = {New York ; Oxford}
+}
+
+@ARTICLE{Harrison00,
+  author = {R. Harrison and S.J. Counsell and R.V. Nithi},
+  title = {Experimental assessment of the effect of inheritance on the maintainability
+	of object-oriented systems},
+  journal = {The Journal of Systems and Software},
+  year = {2000},
+  volume = {52},
+  pages = {173--179},
+  number = {3},
+  month = {June}
+}
+
+@ARTICLE{HCGJ11,
+  author = {Francisco Herrera and Crist\'{o}bal J. {Carmona del Jesus} and Pedro
+	Gonz\'{a}lez and Mar\'{i}a Jos\'e {del Jesus}},
+  title = {An overview on Subgroup Discovery: Foundations and Applications},
+  journal = {Knowledge and Information Systems},
+  year = {2011},
+  volume = {29},
+  pages = {495--525}
+}
+
+@INPROCEEDINGS{Sahraoui99FESMA,
+  author = {Houari A. Sahraoui , Danielle Azar},
+  title = {Quality Estimation Models Optimization Using Genetic Algorithms:
+	Case of Maintainability},
+  booktitle = {Proc. of the 2nd European Software Measurement Conference (FESMA'99)},
+  year = {1999}
+}
+
+@BOOK{japkowicz2011evaluating,
+  title = {Evaluating Learning Algorithms: A Classification Perspective},
+  publisher = {Cambridge University Press},
+  year = {2011},
+  author = {Japkowicz, N. and Shah, M.},
+  series = {Evaluating Learning Algorithms: A Classification Perspective},
+  isbn = {9780521196000},
+  lccn = {2010048733},
+  url = {http://books.google.es/books?id=VoWIIOKVzR4C}
+}
+
+@INPROCEEDINGS{YasutakaEtAl:07,
+  author = {Y. Kamei and A. Monden and S. Matsumoto and T. Kakimoto and K. Matsumoto},
+  title = {The effects of over and under sampling on fault--prone module detection},
+  booktitle = {Empirical Software Engineering and Measurement (ESEM)},
+  year = {2007},
+  pages = {196--204}
+}
+
+@ARTICLE{KL2006,
+  author = {Kav\v{s}ek, Branko and Lavra\v{c}, Nada},
+  title = {{APRIORI-SD}: Adapting Association Rule Learning to Subgroup Discovery},
+  journal = {Applied Artificial Intelligence},
+  year = {2006},
+  volume = {20},
+  pages = {543-583},
+  number = {7},
+  abstract = { This paper presents a subgroup discovery algorithm APRIORI-SD, developed
+	by adapting association rule learning to subgroup discovery. The
+	paper contributes to subgroup discovery, to a better understanding
+	of the weighted covering algorithm, and the properties of the weighted
+	relative accuracy heuristic by analyzing their performance in the
+	ROC space. An experimental comparison with rule learners CN2, RIPPER,
+	and APRIORI-C on UCI data sets demonstrates that APRIORI-SD produces
+	substantially smaller rulesets, where individual rules have higher
+	coverage and significance. APRIORI-SD is also compared to subgroup
+	discovery algorithms CN2-SD and SubgroupMiner. The comparisons performed
+	on U.K. traffic accident data show that APRIORI-SD is a competitive
+	subgroup discovery algorithm. },
+  doi = {10.1080/08839510600779688},
+  eprint = {http://www.tandfonline.com/doi/pdf/10.1080/08839510600779688},
+  url = {http://www.tandfonline.com/doi/abs/10.1080/08839510600779688}
+}
+
+@ARTICLE{02Kho,
+  author = {T. Khoshgoftaar and E. Allen and J. Deng},
+  title = {Using regression trees to classify fault-prone software modules},
+  journal = {IEEE Transactions on Reliability},
+  year = {2002},
+  optnumber = {4},
+  optvolume = {51}
+}
+
+@ARTICLE{97Kho,
+  author = {T. Khoshgoftaar and E. Allen and J. Hudepohl and S. Aud},
+  title = {Application of neural networks to software quality modeling of a
+	very large telecommunications system},
+  journal = {IEEE Transactions on Neural Networks},
+  year = {1997},
+  optnumber = {4},
+  optpages = {902--909},
+  optvolume = {8}
+}
+
+@ARTICLE{KhoshgoftaarEtAl:05,
+  author = {T.M. Khoshgoftaar and N. Seliya and K. Gao},
+  title = {Assessment of a New Three-Group Software Quality Classification Technique:
+	An Empirical Case Study},
+  journal = {Empirical Software Engineering},
+  year = {2005},
+  volume = {10},
+  pages = {183-218},
+  number = {2}
+}
+
+@ARTICLE{Khoshgoftaar02,
+  author = {T. M. Khoshgoftaar and E. Allen and J. Deng},
+  title = {Using Regression Trees To Classify Fault-Prone Software Modules},
+  journal = {IEEE Transactions on Reliability},
+  year = {2002},
+  volume = {51},
+  pages = {455--462},
+  number = {4}
+}
+
+@ARTICLE{Khoshgoftaar97,
+  author = {T. M. Khoshgoftaar and E. Allen and J. Hudepohl and S. Aud},
+  title = {Application of Neural Networks to Software Quality Modeling of a
+	Very Large Telecommunications System},
+  journal = {IEEE Transactions on Neural Networks},
+  year = {1997},
+  volume = {8},
+  pages = {902--909},
+  number = {4}
+}
+
+@ARTICLE{Khoshgoftaar2004,
+  author = {Taghi M. Khoshgoftaar and Naeem Seliya},
+  title = {Comparative Assessment of Software Quality Classification Techniques:
+	An Empirical Case Study},
+  journal = {Empirical Software Engineering},
+  year = {2004},
+  volume = {9},
+  pages = {229--257},
+  number = {3},
+  month = sep,
+  acmid = {990393},
+  address = {Hingham, MA, USA},
+  doi = {10.1023/B:EMSE.0000027781.18360.9b},
+  issn = {1382-3256},
+  issue_date = {September 2004},
+  keywords = {Software quality classification, analysis of variance, case-based
+	reasoning, decision trees, expected cost of misclassification, logistic
+	regression},
+  numpages = {29},
+  publisher = {Kluwer Academic Publishers},
+  url = {http://dx.doi.org/10.1023/B:EMSE.0000027781.18360.9b}
+}
+
+@ARTICLE{Khoshgoftaar03,
+  author = {Taghi M. Khoshgoftaar and Naeem Seliya},
+  title = {Analogy-Based Practical Classification Rules for Software Quality
+	Estimation},
+  journal = {Empirical Software Engineering},
+  year = {2003},
+  volume = {8},
+  pages = {325--350},
+  number = {4},
+  address = {Hingham, MA, USA},
+  doi = {http://dx.doi.org/10.1023/A:1025316301168},
+  issn = {1382-3256},
+  publisher = {Kluwer Academic Publishers}
+}
+
+@INPROCEEDINGS{Kira92_ReliefF,
+  author = {Kira, Kenji and Rendell, Larry A.},
+  title = {A practical approach to feature selection},
+  booktitle = {Proceedings of the ninth international workshop on Machine learning},
+  year = {1992},
+  series = {ML92},
+  pages = {249--256},
+  address = {San Francisco, CA, USA},
+  publisher = {Morgan Kaufmann Publishers Inc.},
+  acmid = {142034},
+  isbn = {1-5586-247-X},
+  location = {Aberdeen, Scotland, United Kingdom},
+  numpages = {8},
+  url = {http://dl.acm.org/citation.cfm?id=141975.142034}
+}
+
+@INPROCEEDINGS{KirsoppShepperd:02,
+  author = {C. Kirsopp and M. Shepperd},
+  title = {Case and Feature Subset Selection in Case-Based Software Project
+	Effort Prediction},
+  booktitle = {Proceedings of 22nd International Conference on Knowledge-Based Systems
+	and Applied Artificial Intelligence (SGAI'02)},
+  year = {2002}
+}
+
+@ARTICLE{Kitchenham1998,
+  author = {Barbara Kitchenham},
+  title = {A Procedure for Analyzing Unbalanced Datasets},
+  journal = {IEEE Transactions on Software Engineering},
+  year = {1998},
+  volume = {24},
+  pages = {278--301},
+  month = {April},
+  acmid = {279139},
+  address = {Piscataway, NJ, USA},
+  doi = {10.1109/32.677185},
+  issn = {0098-5589},
+  issue = {4},
+  keywords = {Software metrics, statistical analysis, unbalanced datasets, benchmarking
+	data, analysis of variance, residual analysis.},
+  numpages = {24},
+  publisher = {IEEE Press},
+  url = {http://portal.acm.org/citation.cfm?id=279131.279139}
+}
+
+@ARTICLE{Klosgen96,
+  author = {Willi Kl\"{o}sgen},
+  title = {Explora: a multipattern and multistrategy discovery assistant},
+  year = {1996},
+  pages = {249--271},
+  address = {Menlo Park, CA, USA},
+  book = {Advances in knowledge discovery and data mining},
+  isbn = {0-262-56097-6},
+  publisher = {American Association for Artificial Intelligence}
+}
+
+@ARTICLE{KJ97,
+  author = {R. Kohavi and G.H. John},
+  title = {Wrappers for Feature Subset Selection},
+  journal = {Artificial Intelligence},
+  year = {1997},
+  volume = {1-2},
+  pages = {273--324}
+}
+
+@INPROCEEDINGS{KJ95,
+  author = {R. Kohavi and G.H. John},
+  title = {Automatic Parameter Selection by Minimizing Estimated Error},
+  booktitle = {12th Int. Conf. on Machine Learning},
+  year = {1995},
+  pages = {304--312},
+  address = {San Francisco}
+}
+
+@INPROCEEDINGS{Kononenko94_ReliefF,
+  author = {Kononenko, Igor},
+  title = {Estimating attributes: analysis and extensions of RELIEF},
+  booktitle = {Proceedings of the European conference on machine learning on Machine
+	Learning (ECML'94)},
+  year = {1994},
+  series = {ECML-94},
+  pages = {171--182},
+  address = {Secaucus, NJ, USA},
+  publisher = {Springer-Verlag New York, Inc.},
+  acmid = {188427},
+  isbn = {3-540-57868-4},
+  location = {Catania, Italy},
+  numpages = {12},
+  url = {http://dl.acm.org/citation.cfm?id=188408.188427}
+}
+
+@ARTICLE{Koru05,
+  author = {A. G. Koru and Hongfang Liu},
+  title = {Building Effective Defect-Prediction Models in Practice},
+  journal = {IEEE Software},
+  year = {2005},
+  volume = {22},
+  pages = {23-29},
+  address = {Los Alamitos, CA, USA},
+  doi = {http://doi.ieeecomputersociety.org/10.1109/MS.2005.149},
+  issn = {0740-7459},
+  publisher = {IEEE Computer Society}
+}
+
+@CONFERENCE{Kralj05SDVisualization,
+  author = {Petra Kralj and Nada Lavra\v{c} and Bla\v{z} Zupan},
+  title = {Subgroup Visualization},
+  booktitle = {Proceedings of the 8th International Multiconference Information
+	Society (IS 2005)},
+  year = {2005},
+  pages = {228--231},
+  issn = {1581-9973}
+}
+
+@ARTICLE{Kralj09,
+  author = {Petra {Kralj Novak} and Nada Lavr\v{c} and Geoffrey I. Webb},
+  title = {Supervised Descriptive Rule Discovery: A Unifying Survey of Contrast
+	Set, Emerging Pattern and Subgroup Mining},
+  journal = {Journal of Machine Learning Research},
+  year = {2009},
+  volume = {10},
+  pages = {377-403},
+  owner = {drg},
+  timestamp = {2012.08.16}
+}
+
+@INPROCEEDINGS{Lan94,
+  author = {P. Langley},
+  title = {Selection of Relevant Features in Machine Learning},
+  booktitle = {Procs. Of the AAAI Fall Symposium on Relevance},
+  year = {1994},
+  pages = {140--144}
+}
+
+@ARTICLE{Lavrac04,
+  author = {Nada Lavra\v{c} and Branko Kav\v{s}ek and Peter Flach and Ljup\v{c}o
+	Todorovski},
+  title = {Subgroup Discovery with {CN2-SD}},
+  journal = {The Journal of Machine Learning Research},
+  year = {2004},
+  volume = {5},
+  pages = {153--188},
+  address = {Cambridge, MA, USA},
+  issn = {1532-4435},
+  publisher = {MIT Press}
+}
+
+@ARTICLE{LBMP08,
+  author = {Lessmann, S. and Baesens, B. and Mues, C. and Pietsch, S.},
+  title = {Benchmarking Classification Models for Software Defect Prediction:
+	A Proposed Framework and Novel Findings},
+  journal = {IEEE Transactions on Software Engineering},
+  year = {2008},
+  volume = {34},
+  pages = {485--496},
+  number = {4},
+  month = {July-Aug.},
+  abstract = {Software defect prediction strives to improve software quality and
+	testing efficiency by constructing predictive classification models
+	from code attributes to enable a timely identification of fault-prone
+	modules. Several classification models have been evaluated for this
+	task. However, due to inconsistent findings regarding the superiority
+	of one classifier over another and the usefulness of metric-based
+	classification in general, more research is needed to improve convergence
+	across studies and further advance confidence in experimental results.
+	We consider three potential sources for bias: comparing classifiers
+	over one or a small number of proprietary data sets, relying on accuracy
+	indicators that are conceptually inappropriate for software defect
+	prediction and cross-study comparisons, and, finally, limited use
+	of statistical testing procedures to secure empirical findings. To
+	remedy these problems, a framework for comparative software defect
+	prediction experiments is proposed and applied in a large-scale empirical
+	comparison of 22 classifiers over 10 public domain data sets from
+	the NASA Metrics Data repository. Overall, an appealing degree of
+	predictive accuracy is observed, which supports the view that metric-based
+	classification is useful. However, our results indicate that the
+	importance of the particular classification algorithm may be less
+	than previously assumed since no significant performance differences
+	could be detected among the top 17 classifiers.},
+  doi = {10.1109/TSE.2008.35},
+  issn = {0098-5589},
+  keywords = {benchmarking classification models;code attributes;fault-prone modules;metric-based
+	classification;predictive classification models;proprietary data
+	sets;software defect prediction;software quality;statistical testing
+	procedures;testing efficiency;benchmark testing;software quality;statistical
+	testing;}
+}
+
+@INPROCEEDINGS{Li+Reformat:2007,
+  author = {Z. Li and M. Reformat},
+  title = {A practical method for the software fault--prediction},
+  booktitle = {IEEE International Conference Information Reuse and Integration (IRI)},
+  year = {2007},
+  pages = {659--666}
+}
+
+@INPROCEEDINGS{Lincke2008,
+  author = {Lincke, R\"{u}diger and Lundberg, Jonas and L\"{o}we, Welf},
+  title = {Comparing software metrics tools},
+  booktitle = {Proceedings of the 2008 International Symposium on Software Testing
+	and Analysis (ISSTA'08)},
+  year = {2008},
+  series = {ISSTA'08},
+  pages = {131--142},
+  address = {New York, NY, USA},
+  publisher = {ACM},
+  acmid = {1390648},
+  doi = {10.1145/1390630.1390648},
+  isbn = {978-1-60558-050-0},
+  keywords = {comparing tools, software quality metrics},
+  location = {Seattle, WA, USA},
+  numpages = {12},
+  url = {http://doi.acm.org/10.1145/1390630.1390648}
+}
+
+@BOOK{LM98,
+  title = {Feature Selection for Knowlegde Discovery and Data Mining},
+  publisher = {Kluwer Academic Publishers},
+  year = {1998},
+  author = {H. Liu and H. Motoda},
+  address = {London, UK}
+}
+
+@ARTICLE{LY05,
+  author = {H. Liu and L. Yu},
+  title = {Toward Integrating Feature Selection Algorithms for Classification
+	and Clustering},
+  journal = {IEEE Trans. on Knowledge and Data Eng.},
+  year = {2005},
+  volume = {17},
+  pages = {1--12},
+  number = {3}
+}
+
+@ARTICLE{mccabe76,
+  author = {T.J. McCabe},
+  title = {A Complexity Measure},
+  journal = {IEEE Transactions on Software Engineering},
+  year = {1976},
+  volume = {2},
+  pages = {308--320},
+  number = {4},
+  month = {December}
+}
+
+@ARTICLE{McCabe1989,
+  author = {McCabe, Thomas J. and Butler, Charles W.},
+  title = {Design complexity measurement and testing},
+  journal = {Communications of the ACM},
+  year = {1989},
+  volume = {32},
+  pages = {1415--1425},
+  number = {12},
+  month = dec,
+  acmid = {76382},
+  address = {New York, NY, USA},
+  doi = {10.1145/76380.76382},
+  issn = {0001-0782},
+  issue_date = {Dec. 1989},
+  keywords = {Complexity classes, complexity measures, software development, software
+	quality assurance, systems analysis and design, systems development,
+	test generation, testing, trees},
+  numpages = {11},
+  publisher = {ACM},
+  url = {http://doi.acm.org/10.1145/76380.76382}
+}
+
+@INPROCEEDINGS{Mende10,
+  author = {Mende, Thilo and Koschke, Rainer},
+  title = {Effort-Aware Defect Prediction Models},
+  booktitle = {Proceedings of the 2010 14th European Conference on Software Maintenance
+	and Reengineering (CSMR'10)},
+  year = {2010},
+  series = {CSMR'10},
+  pages = {107--116},
+  address = {Washington, DC, USA},
+  publisher = {IEEE Computer Society},
+  acmid = {1955974},
+  doi = {10.1109/CSMR.2010.18},
+  isbn = {978-0-7695-4321-5},
+  keywords = {Defect Prediction Models, Evaluation, Cost-Benefits},
+  numpages = {10},
+  url = {http://dx.doi.org/10.1109/CSMR.2010.18}
+}
+
+@INPROCEEDINGS{Mende09,
+  author = {Thilo Mende and Rainer Koschke},
+  title = {Revisiting the evaluation of defect prediction models},
+  booktitle = {Proceedings of the 5th International Conference on Predictor Models
+	in Software Engineering (PROMISE'09)},
+  year = {2009},
+  pages = {1--10},
+  address = {New York, NY, USA},
+  publisher = {ACM},
+  doi = {http://doi.acm.org/10.1145/1540438.1540448},
+  isbn = {978-1-60558-634-2},
+  location = {Vancouver, British Columbia, Canada}
+}
+
+@ARTICLE{MenziesTSELocalvsGlobal,
+  author = {Menzies, T. and Butcher, A. and Cok, D. and Marcus, A. and Layman,
+	L. and Shull, F. and Turhan, B. and Zimmermann, T.},
+  title = {Local vs. Global Lessons for Defect Prediction and Effort Estimation},
+  journal = {IEEE Transactions on Software Engineering},
+  year = {2012},
+  volume = {Preprint},
+  doi = {10.1109/TSE.2012.83},
+  issn = {0098-5589},
+  keywords = {Artificial Intelligence;Computing Methodologies;Learning;Metrics/Measurement;Process
+	metrics;Product metrics;Software Engineering;Software/Software Engineering;}
+}
+
+@ELECTRONIC{promise12,
+  author = {Tim Menzies and Bora Caglayan and Ekrem Kocaguneli and Joe Krall
+	and Fayola Peters and Burak Turhan },
+  month = {June},
+  year = {2012},
+  title = {The {PROMISE} Repository of empirical software engineering data},
+  url = {http://promisedata.googlecode.com},
+  institution = {West Virginia University, Department of Computer Science}
+}
+
+@ARTICLE{Menzies07b,
+  author = {Tim Menzies and Alex Dekhtyar and Justin Distefano and Jeremy Greenwald},
+  title = {Problems with Precision: A Response to Comments on Data Mining Static
+	Code Attributes to Learn Defect Predictors},
+  journal = {IEEE Transactions on Software Engineering},
+  year = {2007},
+  volume = {33},
+  pages = {637--640},
+  number = {9},
+  address = {Los Alamitos, CA, USA},
+  doi = {http://doi.ieeecomputersociety.org/10.1109/TSE.2007.70721},
+  issn = {0098-5589},
+  publisher = {IEEE Computer Society}
+}
+
+@ARTICLE{Menzies07,
+  author = {T. Menzies and J. Greenwald and A. Frank},
+  title = {Data Mining Static Code Attributes to Learn Defect Predictors},
+  journal = {IEEE Transactions on Software Engineering},
+  year = {2007},
+  optmonth = {January},
+  optnumber = {1},
+  optpages = {2--13},
+  optvolume = {33}
+}
+
+@ARTICLE{MenziesASE10DefPred,
+  author = {Menzies, Tim and Milton, Zach and Turhan, Burak and Cukic, Bojan
+	and Jiang, Yue and Bener, Ay\c{s}e},
+  title = {Defect prediction from static code features: currentÂ results, limitations,
+	new approaches},
+  journal = {Automated Software Engineering},
+  year = {2010},
+  volume = {17},
+  pages = {375-407},
+  note = {10.1007/s10515-010-0069-5},
+  affiliation = {West Virginia University Morgantown USA},
+  issn = {0928-8910},
+  issue = {4},
+  keyword = {Computer Science},
+  publisher = {Springer Netherlands},
+  url = {http://dx.doi.org/10.1007/s10515-010-0069-5}
+}
+
+@BOOK{Mit97,
+  title = {Machine Learning},
+  publisher = {McGraw Hill},
+  year = {1997},
+  author = {T. Mitchell}
+}
+
+@ARTICLE{Myrtveit05,
+  author = {Ingunn Myrtveit and Erik Stensrud and Martin Shepperd},
+  title = {Reliability and Validity in Comparative Studies of Software Prediction
+	Models},
+  journal = {IEEE Transactions on Software Engineering},
+  year = {2005},
+  volume = {31},
+  pages = {380--391},
+  number = {5},
+  address = {Piscataway, NJ, USA},
+  doi = {http://dx.doi.org/10.1109/TSE.2005.58},
+  issn = {0098-5589},
+  publisher = {IEEE Press}
+}
+
+@INPROCEEDINGS{Ostrand07,
+  author = {Thomas J. Ostrand and Elaine J. Weyuker},
+  title = {How to measure success of fault prediction models},
+  booktitle = {SOQUA'07: Fourth international workshop on Software quality assurance},
+  year = {2007},
+  pages = {25--30},
+  address = {New York, NY, USA},
+  publisher = {ACM},
+  doi = {http://doi.acm.org/10.1145/1295074.1295080},
+  isbn = {978-1-59593-724-7},
+  location = {Dubrovnik, Croatia}
+}
+
+@ARTICLE{Peng2009,
+  author = {Yi Peng and Gang Kou and Guoxun Wang and Honggang Wang and Franz
+	Ko},
+  title = {Empirical Evaluation Of Classifiers For Software Risk Management},
+  journal = {International Journal of Information Technology \& Decision Making
+	(IJITDM)},
+  year = {2009},
+  volume = {08},
+  pages = {749--767},
+  number = {04},
+  abstract = {Software development involves plenty of risks, and errors exist in
+	software modules represent a major kind of risk. Software defect
+	prediction techniques and tools that identify software errors play
+	a crucial role in software risk management. Among software defect
+	prediction techniques, classification is a commonly used approach.
+	Various types of classifiers have been applied to software defect
+	prediction in recent years. How to select an adequate classifier
+	(or set of classifiers) to identify error prone software modules
+	is an important task for software development organizations. There
+	are many different measures for classifiers and each measure is intended
+	for assessing different aspect of a classifier. This paper developed
+	a performance metric that combines various measures to evaluate the
+	quality of classifiers for software defect prediction. The performance
+	metric is analyzed experimentally using 13 classifiers on 11 public
+	domain software defect datasets. The results of the experiment indicate
+	that support vector machines (SVM), C4.5 algorithm, and K-nearest-neighbor
+	algorithm ranked the top three classifiers.},
+  keywords = {Classification; software risk management; software defect prediction;
+	performance metric}
+}
+
+@ARTICLE{Peng2010,
+  author = {Yi Peng and Guoxun Wang and Honggang Wang},
+  title = {User preferences based software defect detection algorithms selection
+	using {MCDM}},
+  journal = {Information Sciences},
+  year = {2010},
+  volume = {In Press.},
+  pages = { - },
+  doi = {DOI: 10.1016/j.ins.2010.04.019},
+  issn = {0020-0255},
+  url = {http://www.sciencedirect.com/science/article/B6V0C-4YXK4KM-1/2/0841843c022cfd6b78886eb45bc8ccf0}
+}
+
+@BOOK{Qui93,
+  title = {C4.5: Programs for machine learning},
+  publisher = {Morgan Kaufmann},
+  year = {1993},
+  author = {J.R. Quinlan},
+  address = {San Mateo, California}
+}
+
+@ARTICLE{Radjenovic2013,
+  author = {Danijel Radjenovi\'{c} and Marjan Heri\v{c}o and Richard Torkar and
+	Ale\v{s} \v{Z}ivkovi\v{c}Â�},
+  title = {Software Fault Prediction Metrics: A Systematic Literature Review},
+  journal = {Information and Software Technology},
+  year = {2013},
+  pages = {In press},
+  number = {0},
+  doi = {10.1016/j.infsof.2013.02.009},
+  issn = {0950-5849},
+  keywords = {Software metric},
+  url = {http://www.sciencedirect.com/science/article/pii/S0950584913000426}
+}
+
+@INPROCEEDINGS{Rodriguez07,
+  author = {D. Rodriguez and R. Ruiz and J. Cuadrado and J. Aguilar-Ruiz},
+  title = {Detecting fault modules applying feature selection to classifiers},
+  year = {2007},
+  pages = {667--672},
+  journal = {IEEE International Conference on Information Reuse and Integration
+	(IRI'07)}
+}
+
+@ARTICLE{Rodriguez2012,
+  author = {D. Rodriguez and R. Ruiz and J.C. Riquelme and J.S. Aguilar-Ruiz},
+  title = {Searching for rules to detect defective modules: A subgroup discovery
+	approach},
+  journal = {Information Sciences},
+  year = {2012},
+  volume = {191},
+  pages = {14--30},
+  abstract = {Data mining methods in software engineering are becoming increasingly
+	important as they can support several aspects of the software development
+	life-cycle such as quality. In this work, we present a data mining
+	approach to induce rules extracted from static software metrics characterising
+	fault-prone modules. Due to the special characteristics of the defect
+	prediction data (imbalanced, inconsistency, redundancy) not all classification
+	algorithms are capable of dealing with this task conveniently. To
+	deal with these problems, Subgroup Discovery (SD) algorithms can
+	be used to find groups of statistically different data given a property
+	of interest. We propose EDER-SD (Evolutionary Decision Rules for
+	Subgroup Discovery), a SD algorithm based on evolutionary computation
+	that induces rules describing only fault-prone modules. The rules
+	are a well-known model representation that can be easily understood
+	and applied by project managers and quality engineers. Thus, rules
+	can help them to develop software systems that can be justifiably
+	trusted. Contrary to other approaches in SD, our algorithm has the
+	advantage of working with continuous variables as the conditions
+	of the rules are defined using intervals. We describe the rules obtained
+	by applying our algorithm to seven publicly available datasets from
+	the PROMISE repository showing that they are capable of characterising
+	subgroups of fault-prone modules. We also compare our results with
+	three other well known SD algorithms and the EDER-SD algorithm performs
+	well in most cases.},
+  doi = {10.1016/j.ins.2011.01.039},
+  issn = {0020-0255},
+  keywords = {Defect prediction},
+  url = {http://www.sciencedirect.com/science/article/pii/S0020025511000661}
+}
+
+@INPROCEEDINGS{SeiffertEtAl07,
+  author = {C. Seiffert and T.M. Khoshgoftaar and J. Van Hulse and A. Folleco},
+  title = {An empirical study of the classification performance of learners
+	on imbalanced and noisy software quality data},
+  booktitle = {2007 IEEE International Conference on Information Reuse and Integration,
+	IEEE IRI-2007},
+  year = {2007},
+  pages = {651--658}
+}
+
+@ARTICLE{Shatnawi2010,
+  author = {Shatnawi, Raed and Li, Wei and Swain, James and Newman, Tim},
+  title = {Finding software metrics threshold values using ROC curves},
+  journal = {Journal of Software Maintenance and Evolution: Research and Practice},
+  year = {2010},
+  volume = {22},
+  pages = {1--16},
+  number = {1},
+  abstract = {An empirical study of the relationship between object-oriented (OO)
+	metrics and error-severity categories is presented. The focus of
+	the study is to identify threshold values of software metrics using
+	receiver operating characteristic curves. The study used the three
+	releases of the Eclipse project and found threshold values for some
+	OO metrics that separated no-error classes from classes that had
+	high-impact errors. Although these thresholds cannot predict whether
+	a class will definitely have errors in the future, they can provide
+	a more scientific method to assess class error proneness and can
+	be used by engineers easily.},
+  doi = {10.1002/smr.404},
+  issn = {1532-0618},
+  keywords = {object-oriented design, object-oriented metrics, thresholds, ROC curve},
+  publisher = {John Wiley \& Sons, Ltd.},
+  url = {http://dx.doi.org/10.1002/smr.404}
+}
+
+@ARTICLE{Shepperd01,
+  author = {Shepperd, M. and Kadoda, G.},
+  title = {Comparing software prediction techniques using simulation},
+  journal = {IEEE Transactions on Software Engineering},
+  year = {2001},
+  volume = {27},
+  pages = {1014 --1022},
+  number = {11},
+  month = {nov},
+  abstract = {The need for accurate software prediction systems increases as software
+	becomes much larger and more complex. We believe that the underlying
+	characteristics: size, number of features, type of distribution,
+	etc., of the data set influence the choice of the prediction system
+	to be used. For this reason, we would like to control the characteristics
+	of such data sets in order to systematically explore the relationship
+	between accuracy, choice of prediction system, and data set characteristic.
+	It would also be useful to have a large validation data set. Our
+	solution is to simulate data allowing both control and the possibility
+	of large (1000) validation cases. The authors compare four prediction
+	techniques: regression, rule induction, nearest neighbor (a form
+	of case-based reasoning), and neural nets. The results suggest that
+	there are significant differences depending upon the characteristics
+	of the data set. Consequently, researchers should consider prediction
+	context when evaluating competing prediction systems. We observed
+	that the more "messy" the data and the more complex the relationship
+	with the dependent variable, the more variability in the results.
+	In the more complex cases, we observed significantly different results
+	depending upon the particular training set that has been sampled
+	from the underlying data set. However, our most important result
+	is that it is more fruitful to ask which is the best prediction system
+	in a particular context rather than which is the "best" prediction
+	system},
+  doi = {10.1109/32.965341},
+  issn = {0098-5589},
+  keywords = {case-based reasoning;data set characteristics;machine learning;nearest
+	neighbor;neural nets;prediction problem;regression;rule induction;simulation;small
+	data sets;software prediction systems;software prediction technique
+	comparison;training set;case-based reasoning;learning (artificial
+	intelligence);neural nets;software metrics;virtual machines;}
+}
+
+@ARTICLE{SinghEDtAl2010,
+  author = {Singh, Yogesh and Kaur, Arvinder and Malhotra, Ruchika},
+  title = {Empirical validation of object-oriented metrics for predicting fault
+	proneness models},
+  journal = {Software Quality Journal},
+  year = {2010},
+  volume = {18},
+  pages = {3--35},
+  note = {10.1007/s11219-009-9079-6},
+  abstract = {Empirical validation of software metrics used to predict software
+	quality attributes is important to ensure their practical relevance
+	in software organizations. The aim of this work is to find the relation
+	of object-oriented (OO) metrics with fault proneness at different
+	severity levels of faults. For this purpose, different prediction
+	models have been developed using regression and machine learning
+	methods. We evaluate and compare the performance of these methods
+	to find which method performs better at different severity levels
+	of faults and empirically validate OO metrics given by Chidamber
+	and Kemerer. The results of the empirical study are based on public
+	domain NASA data set. The performance of the predicted models was
+	evaluated using Receiver Operating Characteristic (ROC) analysis.
+	The results show that the area under the curve (measured from the
+	ROC analysis) of models predicted using high severity faults is low
+	as compared with the area under the curve of the model predicted
+	with respect to medium and low severity faults. However, the number
+	of faults in the classes correctly classified by predicted models
+	with respect to high severity faults is not low. This study also
+	shows that the performance of machine learning methods is better
+	than logistic regression method with respect to all the severities
+	of faults. Based on the results, it is reasonable to claim that models
+	targeted at different severity levels of faults could help for planning
+	and executing testing by focusing resources on fault-prone parts
+	of the design and code that are likely to cause serious failures.},
+  affiliation = {University School of Information Technology, GGS Indraprastha University
+	Delhi 110403 India},
+  issn = {0963-9314},
+  issue = {1},
+  keyword = {Computer Science},
+  publisher = {Springer Netherlands},
+  url = {http://dx.doi.org/10.1007/s11219-009-9079-6}
+}
+
+@ARTICLE{SongTSE96,
+  author = {Q. Song and M. Shepperd and M. Cartwright and C. Mair},
+  title = {Software defect association mining and defect correction effort prediction},
+  journal = {IEEE Transactions on Software Engineering},
+  year = {2006},
+  volume = {32},
+  pages = {69--82},
+  number = {2},
+  month = {Feb.},
+  doi = {10.1109/TSE.2006.1599417},
+  issn = {0098-5589},
+  keywords = {Accuracy;Association rules;Data mining;Inspection;Job shop scheduling;Project
+	management;Resource management;Software development management;Software
+	quality;Software systems; data mining; program testing; software
+	process improvement; software quality; SEL defect data; association
+	rule mining; defect correction effort prediction; software defect
+	association prediction; software quality; Software defect prediction;
+	defect association; defect correction effort.; defect isolation effort;}
+}
+
+@ARTICLE{08MSR,
+  author = {O. Vandecruys and D. Martens and B. Baesens and C. Mues and M. Backer
+	and R. Haesen},
+  title = {Mining software repositories for comprehensible software fault prediction
+	models},
+  journal = {Journal of Systems and Software},
+  year = {2008},
+  volume = {81},
+  pages = {823--839},
+  number = {5}
+}
+
+@ARTICLE{Vandecruys2008,
+  author = {Olivier Vandecruys and David Martens and Bart Baesens and Christophe
+	Mues and Manu {De Backer} and Raf Haesen},
+  title = {Mining software repositories for comprehensible software fault prediction
+	models},
+  journal = {Journal of Systems and Software},
+  year = {2008},
+  volume = {81},
+  pages = {823--839},
+  number = {5},
+  abstract = {Software managers are routinely confronted with software projects
+	that contain errors or inconsistencies and exceed budget and time
+	limits. By mining software repositories with comprehensible data
+	mining techniques, predictive models can be induced that offer software
+	managers the insights they need to tackle these quality and budgeting
+	problems in an efficient way. This paper deals with the role that
+	the Ant Colony Optimization (ACO)-based classification technique
+	AntMiner+ can play as a comprehensible data mining technique to predict
+	erroneous software modules. In an empirical comparison on three real-world
+	public datasets, the rule-based models produced by AntMiner+ are
+	shown to achieve a predictive accuracy that is competitive to that
+	of the models induced by several other included classification techniques,
+	such as C4.5, logistic regression and support vector machines. In
+	addition, we will argue that the intuitiveness and comprehensibility
+	of the AntMiner+ models can be considered superior to the latter
+	models.},
+  doi = {DOI: 10.1016/j.jss.2007.07.034},
+  issn = {0164-1212},
+  keywords = {Classification},
+  url = {http://www.sciencedirect.com/science/article/B6V0N-4PHSC3R-2/2/129ce670cc51b090011f548066bb5711}
+}
+
+@INPROCEEDINGS{VanHulseEtAl:2007,
+  author = {J. {Van Hulse} and T.~M. Khoshgoftaar and A. Napolitano},
+  title = {Experimental perspectives on learning from imbalanced data},
+  booktitle = {Proceedings of the 24th International Conference on Machine Learning
+	(ICML07)},
+  year = {2007},
+  address = {New York, USA},
+  publisher = {ACM}
+}
+
+@ARTICLE{watson1996structured,
+  author = {Watson, Arthur H and McCabe, Thomas J and Wallace, Dolores R},
+  title = {Structured testing: A testing methodology using the cyclomatic complexity
+	metric},
+  journal = {NIST special Publication},
+  year = {1996},
+  volume = {500},
+  pages = {1--114},
+  number = {235}
+}
+
+@BOOK{WFH11,
+  title = {Data Mining: Practical machine learning tools and techniques},
+  publisher = {Morgan Kaufmann},
+  year = {2011},
+  author = {I.H. Witten and E. Frank and M.A. Hall},
+  address = {San Francisco},
+  edition = {3rd Edition}
+}
+
+@BOOK{Wohlin2000ESE,
+  title = {Experimentation in software engineering: an introduction},
+  publisher = {Kluwer Academic Publishers},
+  year = {2000},
+  author = {Wohlin, Claes and Runeson, Per and H\"{o}st, Martin and Ohlsson,
+	Magnus C. and Regnell, Bj\"{o}orn and Wessl{\'e}n, Anders},
+  address = {Norwell, MA, USA},
+  isbn = {0-7923-8682-5}
+}
+
+@INBOOK{Wrobel01,
+  chapter = {An algorithm for multi-relational discovery of subgroups},
+  pages = {74--101},
+  title = {Relational Data Mining},
+  publisher = {Springer},
+  year = {2001},
+  editor = {Saso Dzeroski and Nada Lavra\u{c}},
+  author = {Stefan Wrobel}
+}
+
+@INPROCEEDINGS{Wrobel97,
+  author = {Stefan Wrobel},
+  title = {An algorithm for multi-relational discovery of subgroups},
+  booktitle = {Proceedings of the 1st European Symposium on Principles of Data Mining},
+  year = {1997},
+  pages = {78--87}
+}
+
+@ARTICLE{Xie09DM,
+  author = {Tao Xie and S. Thummalapenta and D. Lo and Liu Chao},
+  title = {Data Mining for Software Engineering},
+  journal = {IEEE Computer},
+  year = {2009},
+  volume = {42},
+  pages = {55--62},
+  number = {8},
+  month = {Aug.},
+  doi = {10.1109/MC.2009.256},
+  issn = {0018-9162},
+  keywords = {Cleaning;Clustering algorithms;Data engineering;Data mining;Databases;Debugging;Dynamic
+	programming;Pattern matching;Software algorithms;Software engineering;data
+	mining;software quality;data graphs;data mining;data sequences;software
+	engineering;software productivity;software quality;text mining;Computational
+	intelligence;Data mining;Design and test;Software engineering;}
+}
+
+@ARTICLE{XieTLL09,
+  author = {Tao Xie and Suresh Thummalapenta and David Lo and Chao Liu},
+  title = {Data Mining for Software Engineering},
+  journal = {IEEE Computer},
+  year = {2009},
+  volume = {42},
+  pages = {55-62},
+  number = {8},
+  bibsource = {DBLP, http://dblp.uni-trier.de},
+  ee = {http://doi.ieeecomputersociety.org/10.1109/MC.2009.256}
+}
+
+@INPROCEEDINGS{LY04,
+  author = {L. Yu and H. Liu},
+  title = {Redundancy Based Feature Selection for Microarry Data},
+  booktitle = {10th ACM SIGKDD Int. Conf. on Knowledge Discovery and Data Mining},
+  year = {2004},
+  addres = {Seattle, Washington}
+}
+
+@ARTICLE{Zele06,
+  author = {F. Zelezn\'y and N. Lavrac},
+  title = {Propositionalization-based relational subgroup discovery with RSD},
+  journal = {Machine Learning},
+  year = {2006},
+  optpages = {33--63},
+  optvolume = {62}
+}
+
+@ARTICLE{Zhang07,
+  author = {Hongyu Zhang and Xiuzhen Zhang},
+  title = {Comments on "Data Mining Static Code Attributes to Learn Defect Predictors"},
+  journal = {IEEE Transactions on Software Engineering},
+  year = {2007},
+  volume = {33},
+  pages = {635--637},
+  number = {9},
+  address = {Los Alamitos, CA, USA},
+  doi = {http://doi.ieeecomputersociety.org/10.1109/TSE.2007.70706},
+  issn = {0098-5589},
+  publisher = {IEEE Computer Society}
+}
+
+@INPROCEEDINGS{Zimmermann07Eclipse,
+  author = {Zimmermann, T. and Premraj, R. and Zeller, A.},
+  title = {Predicting Defects for Eclipse},
+  booktitle = {International Workshop on Predictor Models in Software Engineering
+	(PROMISE'07)},
+  year = {2007},
+  pages = {9},
+  month = {may},
+  abstract = {We have mapped defects from the bug database of eclipse (one of the
+	largest open-source projects) to source code locations. The resulting
+	data set lists the number of pre- and post-release defects for every
+	package and file in the eclipse releases 2.0, 2.1, and 3.0. We additionally
+	annotated the data with common complexity metrics. All data is publicly
+	available and can serve as a benchmark for defect prediction models.},
+  doi = {10.1109/PROMISE.2007.10},
+  keywords = {Eclipse;bug database;common complexity metrics;defect prediction models;open-source
+	projects;source code locations;program debugging;public domain software;}
+}
+
+@article{RRRH_IST13,
+title = "A Study of Subgroup Discovery Approaches for Defect Prediction",
+journal = "Information and Software Technology",
+volume = "In Press.",
+number = "",
+pages = "",
+doi="10.1016/j.infsof.2013.05.002",
+year = "2013",
+author = "Daniel Rodriguez and Roberto Ruiz and Jose C. Riquelme and Rachel Harrison"
+}
+
+@article{RodriguezEtAlINS12,
+title = "Searching for rules to detect defective modules: A subgroup discovery approach",
+journal = "Information Sciences",
+volume = "191",
+pages = "14--30",
+year = "2012",
+issn = "0020-0255",
+doi = "10.1016/j.ins.2011.01.039",
+url = "http://www.sciencedirect.com/science/article/pii/S0020025511000661",
+author = "D. Rodriguez and R. Ruiz and J.C. Riquelme and J.S. Aguilar–Ruiz",
+keywords = "Defect prediction",
+keywords = "Subgroup discovery",
+keywords = "Imbalanced datasets",
+keywords = "Rules"
+}
+
